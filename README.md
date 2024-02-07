@@ -1,3 +1,4 @@
 # Student
 This is my first git repo.
-author-Shreeja
+<br>
+Author-Shreeja CM
