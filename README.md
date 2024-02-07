@@ -1,2 +1,3 @@
 # Student
-This is my first git repose
+This is my first git repo.
+author-Shreeja
